@@ -1,1 +1,3 @@
 # bharatGodam
+
+basic code
